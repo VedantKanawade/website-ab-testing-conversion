@@ -91,4 +91,4 @@ All key plots are included in the `reports/` folder:
 
 - Data is **simulated** to reflect realistic A/B test behavior  
 - Analysis is **fully reproducible** via the provided notebooks  
-- Follows **industry-standard experimentation practices** for product analytics
+- Follows **industry-standard experimentation practices** for product analytics.
